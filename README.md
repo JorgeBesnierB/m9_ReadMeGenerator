@@ -16,6 +16,7 @@
 
   ## [Description](#table-of-contents)
     You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
+   Video: https://drive.google.com/file/d/1h8QNHOU4hlb988TRVlbO4UjxXCa38WTt/view?usp=sharing
   
   ## [User Story](#table-of-contents)
     AS A developer
